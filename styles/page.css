@@ -1,0 +1,31 @@
+/*page.css*/
+body {
+    display: -moz-box;
+    margin:auto;
+    padding: 15px;
+    width: 80%;
+    background-color: beige;
+
+}
+h1,h3 {
+    color:black;
+    background-color:aqua;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: .6em;
+    text-align: center;
+}
+p {
+    font-size: 25px;
+}
+li {
+    color:black;
+    background-color:lightcyan ;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    padding: 20px;
+    margin: 25px;
+}
+
